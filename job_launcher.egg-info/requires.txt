@@ -1,0 +1,4 @@
+pyyaml<6,>=5.3.1
+jenkinsapi<0.4,>=0.3.11
+requests<3,>=2.25.1
+jinja2==2.11.3

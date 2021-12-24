@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: job-launcher
+Version: 0.1.0
+Summary: Jenkins jobs launching tool
+Home-page: https://git.netcracker.com/dmpa1117/everything/tree/job_launcher
+Author: Dmitrii Padozhnikov
+Author-email: dmitrii.padozhnikov@netcracker.com
+License: Proprietary License
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.6
+Requires-Dist: pyyaml (<6,>=5.3.1)
+Requires-Dist: jenkinsapi (<0.4,>=0.3.11)
+Requires-Dist: requests (<3,>=2.25.1)
+Requires-Dist: jinja2 (==2.11.3)
+
+UNKNOWN
+
